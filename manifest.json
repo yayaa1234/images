@@ -1,11 +1,11 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "cours-box",
-    "short_name": "Torah-cours",
-    "start_url": "cours.html",
+    "name": "IOS 16",
+    "short_name": "IOS 16-CARPLAY",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#05055a",
-    "description": "cours de torah.",
+    "description": "IOS 16-CARPLAY",
     "icons": [{
       "src": "https://th.bing.com/th?id=OIF.bp7TN48X6uSt3MTk%2bgVEaA&pid=ImgDet&rs=1",
       "sizes": "48x48",
